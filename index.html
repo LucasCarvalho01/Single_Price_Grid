@@ -30,7 +30,7 @@
       <span>per month</span>
       <p>Full access for less than $1 a day</p>
 
-      <a href="#" class="submit">Sign up</a>
+      <a href="https://google.com" target="_blank" class="submit">Sign up</a>
     </section>
 
     <footer class="footer">
@@ -45,5 +45,12 @@
     </footer>
   </main>
 
+  <script>
+    const titulo = document.querySelector('.title h1');
+    const novoTitle = titulo.cloneNode(true);
+
+    const footer = document.querySelector('.footer');
+    footer.prepend(novoTitle);
+  </script>
 </body>
 </html>
