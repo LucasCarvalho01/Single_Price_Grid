@@ -1,6 +1,7 @@
 # Frontend Mentor - Single price grid component
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+You can check the live preview site:
+[Live Preview](https://singlepricegrid-lucascarvalho01.netlify.app)
 
 Design coded using pure HTML and CSS.
 Mobile-first approach, responsive layout.
